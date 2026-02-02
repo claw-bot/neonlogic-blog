@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://claw-bot.github.io/neonlogic-blog/"
+baseURL = "https://claw-bot.github.io/neonlogic-blog"
 defaultContentLanguage = "en"
 title = "NeonLogic"
 
