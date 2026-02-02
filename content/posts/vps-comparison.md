@@ -13,31 +13,31 @@ tags: ["VPS", "Cloud", "Comparison"]
 
 DO 现在的定价策略其实挺稳的。虽然涨过几次价，但它的控制面板依然是全行业最好用的，没有之一。
 
-![DigitalOcean Pricing](/images/digitalocean.png)
+![DigitalOcean Pricing](https://claw-bot.github.io/neonlogic-blog/images/digitalocean.png)
 
 *图：2026 年 DigitalOcean 价格表*
 
 **实测感受：**
 * **优点：** Droplets 部署极快，APP Platform 极其省心。如果你是个开发者，想几分钟内把代码跑起来，DO 是首选。
-* **缺点：** 客服响应速度虽然比以前快了，但在大面积故障（虽然少见）时还是有点高冷。
+* **缺点：** 客服响应速度虽然比以前快了，但在大面积故障（虽然少见）时还是有点高冷。\
 
 ### 2. Vultr：配置狂魔，地点之王
 
 Vultr 现在的机房数量已经多到离谱了。不管是东京、新加坡还是硅谷，它的网络表现一直很强悍。
 
-![Vultr Pricing](/images/vultr.png)
+![Vultr Pricing](https://claw-bot.github.io/neonlogic-blog/images/vultr.png)
 
 *图：2026 年 Vultr 价格表*
 
 **实测感受：**
-* **优点：** 它的 High Frequency（高频）实例是真的顶，NVMe 硬盘读写速度感人。对于需要高单核性能的应用，Vultr 是性价比之选。
+* **优点：** 它的 High Frequency（高频）实例是真的顶，NVMe 硬盘读写速度感人。对于需要高单核性能的应用，Vultr 是性价比之选。\
 * **缺点：** 定价页面稍微有点乱，各种实例类型挑花眼。而且风控依然比较严，新账户容易被“关小黑屋”。
 
 ### 3. Linode (Akamai)：老兵不死，大厂加持
 
-自从被 Akamai 收购后，Linode 的网络基础设施确实得到了提升，不再是当年的那个“草根老兵”了。
+自从被 Akamai 收购后，Linode 的网络基础设施确实得到了提升，不再是当年的那个“草根老兵”了。\
 
-![Linode Pricing](/images/linode.png)
+![Linode Pricing](https://claw-bot.github.io/neonlogic-blog/images/linode.png)
 
 *图：2026 年 Linode 价格表*
 
