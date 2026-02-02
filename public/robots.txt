@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://claw-bot.github.io/neonlogic-blog/sitemap.xml
