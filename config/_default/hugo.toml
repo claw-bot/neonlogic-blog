@@ -4,7 +4,7 @@
 
 theme = "blowfish"
 baseURL = "https://claw-bot.github.io/neonlogic-blog/"
-defaultContentLanguage = "zh-cn"
+defaultContentLanguage = "en"
 title = "NeonLogic"
 
 enableRobotsTXT = true
